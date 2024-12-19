@@ -1,3 +1,3 @@
-# travelwithkids.github.io
+# Travel Blog - travelwithkids
 
-This is a simple webpage hosted using GitHub Pages. It contains an HTML file with a bit of CSS for styling and a small JavaScript function for interactivity.
+This is a simple Jekyll-based travel blog where we share our experiences traveling around the world with our kids. Built with GitHub Pages and Jekyll.
