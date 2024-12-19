@@ -5,8 +5,6 @@ title: "home"
 
 # Welcome to "Traveling the World with Kids" Blog!
 
-# ![Picture](assets/images/beautiful-taiwan-popumon-hehuanshan-east-peak.jpg)
-
 <div class="image-container">
   <img src="{{ 'assets/images/beautiful-taiwan-popumon-hehuanshan-east-peak.jpg' | relative_url }}" alt="Picture">
 </div>
