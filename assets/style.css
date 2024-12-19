@@ -36,3 +36,13 @@ img {
   height: auto;
 }
 
+.ads-banner {
+  text-align: center; /* Center align the ads */
+  margin: 20px 0;
+}
+
+.adsbygoogle {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
