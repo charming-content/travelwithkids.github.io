@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: default
+title: "home"
 ---
 
 # Welcome to "Traveling the World with Kids" Blog!
