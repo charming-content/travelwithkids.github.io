@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 Days getaway in Johor Bahru with Kids"
+title: "5 Days Getaway in Johor Bahru with Kids"
 date: 2024-12-10
 ---
 
