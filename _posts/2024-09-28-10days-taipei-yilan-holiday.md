@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "CharMing 10 Days in Taipei and Yilan with Kids: Encountering Typhoon Krathon"
+title: "CharMing's 10 Days in Taipei and Yilan with Kids: Encountering Typhoon Krathon"
 date: 2024-09-28
 ---
 
-## CharMing 10 Days in Taipei and Yilan with Kids: Encountering Typhoon Krathon
+## CharMing's 10 Days in Taipei and Yilan with Kids: Encountering Typhoon Krathon
 
 Our recent family trip to Taipei and Yilan was filled with adventure (Typhoon Krathon), excitement, and lots of fun moments with our two little ones. Here’s a glimpse into our 10-day itinerary exploring these vibrant parts of Taiwan.
 
