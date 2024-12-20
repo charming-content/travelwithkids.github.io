@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "9 Days in Hokkaido with Kids"
+title: "CharMing 9 Days in Magical Hokkaido with Kids"
 date: 2023-05-10
 ---
 
-## 9 Days in Magical Hokkaido with Kids
+## CharMing 9 Days in Magical Hokkaido with Kids
 
 We recently spent 9 magical days exploring Hokkaido with our two kids. From breathtaking landscapes to delicious food, Hokkaido offered the perfect mix of adventure, relaxation, and family-friendly activities. Here’s a glimpse into our journey.
 
