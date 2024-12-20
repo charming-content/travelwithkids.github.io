@@ -3,10 +3,8 @@ layout: default
 title: "Contact"
 ---
 
-If you'd like to reach out, feel free to contact me:
+If you'd like to reach out, feel free to contact us:
 
-- Email: your.email@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Instagram: [@yourhandle](https://instagram.com/yourhandle)
+- Email: charming.content@gmail.com
 
-I'm always happy to connect with fellow travelers!
+We are always happy to answer your queries!
