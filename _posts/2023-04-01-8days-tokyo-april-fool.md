@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "8 Days in Tokyo with Kids: Start our Family Spring Adventure on April Fool"
+title: "CharMing 8 Days in Tokyo with Kids: Start our Family Spring Adventure on April Fool"
 date: 2023-04-01
 ---
 
-## 8 Days in Tokyo with Kids: Start our Family Spring Adventure on April Fool
+## CharMing 8 Days in Tokyo with Kids: Start our Family Spring Adventure on April Fool
 
 Tokyo in the spring is a magical time, especially for families. The cherry blossoms are in full bloom, the parks are vibrant, and there’s no shortage of fun, family-friendly activities. Here’s a detailed itinerary of our 8-day spring trip to Tokyo with two kids, along with prices to help plan your own adventure.
 
