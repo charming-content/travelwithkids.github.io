@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "10 Days in Taipei and Yilan with Kids"
+title: "CharMing 10 Days in Taipei and Yilan with Kids: Encountering Typhoon Krathon"
 date: 2024-09-28
 ---
 
-## 10 Days in Taipei and Yilan with Kids
+## CharMing 10 Days in Taipei and Yilan with Kids: Encountering Typhoon Krathon
 
-Our recent family trip to Taipei and Yilan was filled with adventure, excitement, and lots of fun moments with our two little ones. Here’s a glimpse into our 10-day itinerary exploring these vibrant parts of Taiwan.
+Our recent family trip to Taipei and Yilan was filled with adventure (Typhoon Krathon), excitement, and lots of fun moments with our two little ones. Here’s a glimpse into our 10-day itinerary exploring these vibrant parts of Taiwan.
 
 ### Day 1: Arrival in Taipei
 We landed in Taipei and headed straight to our **Cosmos hotel** which is just beside Taipei Main statoon, very convenient. After settling in, we took MRT to **Ximending** which is just one stop away, XMD is a bustling area full of street food, shops, and entertainment. The kids were thrilled with the colorful street performers and claw machines.
 
 ### Day 2: Taipei Zoo and Maokong Gondola
-We started the day at the **Taipei Zoo**, which was a hit with the kids. They loved seeing the pandas, elephants, and reptiles. In the afternoon, we rode the **Maokong Gondola** up the mountain. The kids loved the glass-bottom gondola, and the views of Taipei from above were stunning.
+We started the day at the **Taipei Zoo**, which was a hit with the kids. They loved seeing the pandas, elephants, and reptiles. In the afternoon, we rode the **Maokong Gondola** up the mountain. The kids loved the glass-bottom gondola, and the views of Taipei from above were stunning. We are lucky that we visited this place on day 2 as the Typhoon warning came just a few days later which closed the **Maokong Gondola**.
 
 ### Day 3: National Palace Museum and Shilin Night Market
 The **National Palace Museum** was a bit more relaxed but still fascinating. We took the kids through the children's gallery, where they had interactive displays. In the evening, we headed to **Shilin Night Market** for some delicious street food. The fried chicken and bubble tea were the highlights!
