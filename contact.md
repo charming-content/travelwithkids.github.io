@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Contact"
+title: "Contact Us"
+permalink: /contact/
 ---
 
 If you'd like to reach out, feel free to contact us:
