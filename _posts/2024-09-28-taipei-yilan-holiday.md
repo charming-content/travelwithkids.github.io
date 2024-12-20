@@ -9,7 +9,7 @@ date: 2024-09-28
 Our recent family trip to Taipei and Yilan was filled with adventure, excitement, and lots of fun moments with our two little ones. Here’s a glimpse into our 10-day itinerary exploring these vibrant parts of Taiwan.
 
 ### Day 1: Arrival in Taipei
-We landed in Taipei and headed straight to our hotel. After settling in, we took a leisurely walk around **Ximending**, a bustling area full of street food, shops, and entertainment. The kids were thrilled with the colorful street performers.
+We landed in Taipei and headed straight to our **Cosmos hotel** which is just beside Taipei Main statoon, very convenient. After settling in, we took MRT to **Ximending** which is just one stop away, XMD is a bustling area full of street food, shops, and entertainment. The kids were thrilled with the colorful street performers and claw machines.
 
 ### Day 2: Taipei Zoo and Maokong Gondola
 We started the day at the **Taipei Zoo**, which was a hit with the kids. They loved seeing the pandas, elephants, and reptiles. In the afternoon, we rode the **Maokong Gondola** up the mountain. The kids loved the glass-bottom gondola, and the views of Taipei from above were stunning.
@@ -23,8 +23,8 @@ A visit to **Taipei 101** was an absolute must! We zoomed up to the observation 
 ### Day 5: Day Trip to Beitou Hot Springs
 We took a day trip to **Beitou**, famous for its hot springs. While we couldn’t stay long in the hot pools with the kids, they had a blast playing in the public foot baths. The **Thermal Valley** was also a fun and educational stop where we learned about the region's volcanic activity.
 
-### Day 6: Travel to Yilan
-We packed up and headed to **Yilan**, just a short train ride from Taipei. After checking into a family-friendly resort, we explored the **Jiaoxi Hot Springs** area. The kids loved playing in the warm pools, and we found a nearby park with playgrounds to relax for the evening.
+### Day 6: Day Trip to Yilan
+We 包车 for a day (around 3000twd) and headed to **Yilan**, we went to the **Zhang Mei Ama's Farm** before having lunch at the **Red Lantern Restaurant**. We explored the **Jiaoxi Hot Springs** area later in the evening. The kids loved playing in the warm pools, and we found a nearby park with playgrounds to relax for the evening. After that we went back to our hotel in Taipei.
 
 ### Day 7: Dongshan River Water Park and Luodong Night Market
 We spent the day at **Dongshan River Water Park**, which had plenty of fun activities for the kids, including paddle boats and water play areas. In the evening, we explored **Luodong Night Market**, where we indulged in local snacks like green onion pancakes and grilled seafood.
