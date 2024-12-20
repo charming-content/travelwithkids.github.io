@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "CharMing 5 Days Short Getaway in Johor Bahru with Kids"
+title: "CharMing's 5 Days Short Getaway in Johor Bahru with Kids"
 date: 2024-12-10
 ---
 
-## CharMing 5 Days Short Getaway in Johor Bahru with Kids
+## CharMing's 5 Days Short Getaway in Johor Bahru with Kids
 
 We recently took a 5-day trip to Johor Bahru (JB) with our two kids, and it turned out to be a fun-filled family getaway. Here’s a recap of our adventures, where we balanced kids’ activities, family meals, and a bit of downtime for the adults.
 
