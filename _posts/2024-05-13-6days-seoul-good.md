@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "6 Days Seoul good with Kids"
+title: "CharMing 6 Days Seoul Good with Kids"
 date: 2024-05-13
 ---
 
-## 6 Days Seoul good with Kids
+## CharMing 6 Days Seoul Good with Kids
 
 Our family trip to Seoul was packed with excitement and discovery. Traveling with two kids can be challenging, but Seoul's kid-friendly attractions and vibrant culture made for an unforgettable adventure. Here's a look at our 6-day itinerary.
 
