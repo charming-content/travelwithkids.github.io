@@ -2,6 +2,7 @@
 layout: post
 title: "CharMing's 8 Days in Tokyo with Kids: Start our Family Spring Adventure on April Fool"
 date: 2023-04-01
+categories: travel
 ---
 
 ## CharMing's 8 Days in Tokyo with Kids: Start our Family Spring Adventure on April Fool
