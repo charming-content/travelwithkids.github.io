@@ -1,0 +1,43 @@
+/* Container for the two sections */
+.container {
+  display: flex;
+  flex-wrap: wrap; /* Allows wrapping for smaller screens */
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+/* Style for travel posts and recipes posts */
+.travel-posts, .recipes-posts {
+  flex: 1; /* Ensures both take up equal space */
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Ensure lists inside both sections look nice */
+.travel-posts ul, .recipes-posts ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.travel-posts li, .recipes-posts li {
+  margin-bottom: 10px;
+}
+
+.travel-posts li a, .recipes-posts li a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.travel-posts li a:hover, .recipes-posts li a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive design: Stacks the sections on smaller screens */
+@media (max-width: 768px) {
+  .travel-posts, .recipes-posts {
+    flex-basis: 100%; /* Each section takes full width on small screens */
+  }
+}
