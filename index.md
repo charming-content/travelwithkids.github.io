@@ -15,3 +15,13 @@ Hi, We are the CharMing family, and this is our travel blog where we share my ex
 {% for post in site.posts %}
   * [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endfor %}
+
+
+<h2>Cooking Recipes</h2>
+<ul>
+  {% for post in site.categories.recipes %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
