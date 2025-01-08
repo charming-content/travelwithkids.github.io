@@ -2,6 +2,7 @@
 layout: post
 title: "CharMing's 5 Days Short Getaway in Johor Bahru with Kids"
 date: 2024-12-10
+categories: travel
 ---
 
 ## CharMing's 5 Days Short Getaway in Johor Bahru with Kids
