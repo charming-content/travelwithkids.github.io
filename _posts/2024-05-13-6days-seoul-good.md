@@ -2,6 +2,7 @@
 layout: post
 title: "CharMing's 6 Days Seoul Good with Kids"
 date: 2024-05-13
+categories: travel
 ---
 
 ## CharMing's 6 Days Seoul Good with Kids
