@@ -2,6 +2,7 @@
 layout: post
 title: "CharMing's 9 Days in Magical Hokkaido with Kids"
 date: 2023-05-10
+categories: travel
 ---
 
 ## CharMing's 9 Days in Magical Hokkaido with Kids
