@@ -2,6 +2,7 @@
 layout: post
 title: "CharMing's 10 Days in Taipei and Yilan with Kids: Encountering Typhoon Krathon"
 date: 2024-09-28
+categories: travel
 ---
 
 ## CharMing's 10 Days in Taipei and Yilan with Kids: Encountering Typhoon Krathon
