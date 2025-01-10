@@ -14,6 +14,7 @@ Hi, We are the CharMing family, and this is our travel blog where we share my ex
 <h2>Check Out Our Pages Below!!!</h2>
 
 <div class="link-boxes">
+  <a href="{{ site.baseurl }}/" class="box">Home</a>
   <a href="{{ site.baseurl }}/travel" class="box">Travel Blog</a>
   <a href="{{ site.baseurl }}/recipes" class="box">Cooking Recipes</a>
   <a href="{{ site.baseurl }}/about" class="box">About</a>
