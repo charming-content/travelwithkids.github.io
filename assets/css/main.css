@@ -244,6 +244,14 @@ footer p {
   margin-top: 20px;
 }
 
+/* Container for the link boxes */
+.link-boxes {
+  display: flex;
+  justify-content: space-between; /* Distribute boxes evenly */
+  gap: 20px; /* Adds space between boxes */
+  margin-top: 20px;
+}
+
 /* Style for each link box */
 .link-box {
   width: 30%;  /* Each box takes up 30% of the available width */
