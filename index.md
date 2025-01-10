@@ -7,9 +7,9 @@ title: "Home"
   <img src="{{ 'assets/images/new-zealand1.JPG' | relative_url }}" alt="Picture">
 </div>
 
-# Hello! We are the CharMing family, and this is our travel blog where we share our experiences from exploring the world with our kids, including new food places, cultures, and adventures. Along with travel, we love cooking and share our favorite recipes, from quick meals to special celebration dishes. Cooking is our passion, and we hope to inspire you to get creative in the kitchen.
+Hello! We are the CharMing family, and this is our travel blog where we share our experiences from exploring the world with our kids, including new food places, cultures, and adventures. Along with travel, we love cooking and share our favorite recipes, from quick meals to special celebration dishes. Cooking is our passion, and we hope to inspire you to get creative in the kitchen.
 
-# We also enjoy working with data to uncover insights that tell a story and provide actionable knowledge. By analyzing trends and patterns, we can influence decisions, solve problems, and create opportunities. The process of discovering insights from data is both exciting and rewarding, as it helps us make smarter, data-driven decisions and see the world from a more informed perspective.
+We also enjoy working with data to uncover insights that tell a story and provide actionable knowledge. By analyzing trends and patterns, we can influence decisions, solve problems, and create opportunities. The process of discovering insights from data is both exciting and rewarding, as it helps us make smarter, data-driven decisions and see the world from a more informed perspective.
 
 <h2>Check Out Our Pages Below!!!</h2>
 
