@@ -15,7 +15,7 @@ We also enjoy working with data to uncover insights that tell a story and provid
 
 <div class="link-boxes">
   <div class="link-box">
-    <a href="/travel-blog">
+    <a href="/travel">
       <div class="box-content">
         <h3>Travel Blog</h3>
         <p>Explore our adventures around the world with tips, stories, and travel guides</p>
