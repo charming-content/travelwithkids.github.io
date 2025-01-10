@@ -18,6 +18,7 @@ We also love to cook, experimenting with different flavors and ingredients to cr
 <div class="link-boxes">
   <a href="{{ site.baseurl }}/travel" class="box">Travel Blog</a>
   <a href="{{ site.baseurl }}/recipes" class="box">Cooking Recipes</a>
+  <a href="{{ site.baseurl }}/data-insights">Data Insights</a>
 </div>
 
 <div class="image-container">
