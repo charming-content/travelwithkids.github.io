@@ -14,7 +14,7 @@ We also enjoy working with data to uncover insights that tell a story and provid
 <h2>Check Out Our Pages Below!!!</h2>
 
 <div class="link-box">
-  <a href="{{ site.baseurl }}/travel-blog">
+  <a href="{{ site.baseurl }}/travel">
     <div class="box-content">
       <h3>Travel Blog</h3>
       <p>Explore our adventures around the world with tips, stories, and travel guides.</p>
