@@ -15,10 +15,31 @@ We also love to cook, experimenting with different flavors and ingredients to cr
 
 <h2>Check Out Our Pages Below!!!</h2>
 
-<div class="link-boxes">
-  <a href="{{ site.baseurl }}/travel" class="box">Travel Blog</a>
-  <a href="{{ site.baseurl }}/recipes" class="box">Cooking Recipes</a>
-  <a href="{{ site.baseurl }}/data-insights" class="box">Data Insights</a>
+<div class="link-box">
+  <a href="{{ site.baseurl }}/travel-blog">
+    <div class="box-content">
+      <h3>Travel Blog</h3>
+      <p>Explore our adventures around the world with tips, stories, and travel guides.</p>
+    </div>
+  </a>
+</div>
+
+<div class="link-box">
+  <a href="{{ site.baseurl }}/recipes">
+    <div class="box-content">
+      <h3>Recipes</h3>
+      <p>Try out our favorite recipes, from simple meals to exotic dishes from our travels.</p>
+    </div>
+  </a>
+</div>
+
+<div class="link-box">
+  <a href="{{ site.baseurl }}/data-insights">
+    <div class="box-content">
+      <h3>Data Insights</h3>
+      <p>Learn about data analytics and discover insights that help improve decisions and strategies.</p>
+    </div>
+  </a>
 </div>
 
 <div class="image-container">
