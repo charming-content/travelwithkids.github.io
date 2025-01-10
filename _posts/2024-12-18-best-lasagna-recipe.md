@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Simple and Delicious Pork Lasagna Recipe"
-date: 2025-01-08
 categories: recipes
 ---
 # Delicious Pork Lasagna Recipe
