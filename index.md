@@ -19,3 +19,7 @@ We also love to cook, experimenting with different flavors and ingredients to cr
   <a href="{{ site.baseurl }}/travel" class="box">Travel Blog</a>
   <a href="{{ site.baseurl }}/recipes" class="box">Cooking Recipes</a>
 </div>
+
+<div class="image-container">
+  <img src="{{ 'assets/images/hongkong2.JPG' | relative_url }}" alt="Picture">
+</div>
