@@ -251,3 +251,24 @@ footer p {
   font-size: 14px;
   color: #888;
 }
+
+.image-row {
+  display: flex;
+  justify-content: space-between; /* Space between the images */
+  margin-bottom: 20px; /* Space below the images */
+}
+
+.image-container {
+  flex: 1; /* Each image takes up equal space */
+  margin-right: 10px; /* Space between the images */
+}
+
+.image-container:last-child {
+  margin-right: 0; /* Remove right margin for the last image */
+}
+
+.image-container img {
+  width: 100%; /* Ensures the image takes up the container's full width */
+  height: auto; /* Keeps the image's aspect ratio */
+}
+
