@@ -239,14 +239,14 @@ footer p {
 /* Container for the link boxes */
 .link-boxes {
   display: flex;
-  justify-content: space-between; /* Distributes the boxes evenly in a row */
+  justify-content: space-between; /* Distribute boxes evenly */
+  gap: 20px; /* Adds space between boxes */
   margin-top: 20px;
 }
 
 /* Style for each link box */
 .link-box {
   width: 30%;  /* Each box takes up 30% of the available width */
-  margin: 10px;
   padding: 20px;
   border: 2px solid #ddd;
   text-align: center;
@@ -277,7 +277,7 @@ footer p {
   color: inherit;
 }
 
-/* Optional: Box style (not required for your current layout) */
+/* Optional box styles (not necessary for the current layout) */
 .box {
   background-color: #f0e5d8; /* Pastel color */
   border: 2px solid #d3c2b0;
@@ -295,16 +295,16 @@ footer p {
   transition: background-color 0.3s, transform 0.3s;
 }
 
-/* Hover effect for the box (not necessary for your current layout) */
+/* Hover effect for the box (not necessary for the current layout) */
 .box:hover {
   background-color: #e8d7c0;
   transform: scale(1.05);
 }
 
-/* Media query to adjust box size for smaller screens */
+/* Media query for small screens */
 @media (max-width: 768px) {
-  .box {
-    width: 100%;
+  .link-box {
+    width: 100%;  /* Boxes will stack on smaller screens */
     margin: 10px 0;
   }
 }
