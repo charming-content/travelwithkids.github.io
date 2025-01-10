@@ -13,31 +13,25 @@ We also enjoy working with data to uncover insights that tell a story and provid
 
 <h2>Check Out Our Pages Below!!!</h2>
 
-<div class="link-box">
-  <a href="{{ site.baseurl }}/travel">
+<div class="link-boxes">
+  <div class="link-box">
     <div class="box-content">
       <h3>Travel Blog</h3>
-      <p>Explore our adventures around the world with tips, stories, and travel guides.</p>
+      <p>Explore our adventures around the world with tips, stories, and travel guides</p>
     </div>
-  </a>
-</div>
-
-<div class="link-box">
-  <a href="{{ site.baseurl }}/recipes">
+  </div>
+  <div class="link-box">
     <div class="box-content">
       <h3>Recipes</h3>
-      <p>Try out our favorite recipes, from simple meals to exotic dishes from our cooking experience at home.</p>
+      <p>Try out our favorite recipes, from simple meals to exotic dishes from our cooking experience at home</p>
     </div>
-  </a>
-</div>
-
-<div class="link-box">
-  <a href="{{ site.baseurl }}/data-insights">
+  </div>
+  <div class="link-box">
     <div class="box-content">
-      <h3>Data Insights - stay tuned!</h3>
-      <p>Learn about data analytics and discover insights that help improve decisions and strategies.</p>
+      <h3>Data Insights</h3>
+      <p>Learn about data analytics and discover insights that help improve decisions and strategies</p>
     </div>
-  </a>
+  </div>
 </div>
 
 <div class="image-container">
