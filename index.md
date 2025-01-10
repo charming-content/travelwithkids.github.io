@@ -34,7 +34,7 @@ We also enjoy working with data to uncover insights that tell a story and provid
 <div class="link-box">
   <a href="{{ site.baseurl }}/data-insights">
     <div class="box-content">
-      <h3>Data Insights</h3>
+      <h3>Data Insights - stay tuned!</h3>
       <p>Learn about data analytics and discover insights that help improve decisions and strategies.</p>
     </div>
   </a>
