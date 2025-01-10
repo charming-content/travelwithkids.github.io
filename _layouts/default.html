@@ -3,7 +3,7 @@
 <head>
   <div class="ads-banner">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1804037347603041"
-     crossorigin="anonymous"></script>
+    crossorigin="anonymous"></script>
   </div>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,21 +11,38 @@
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 </head>
 <body>
-  <header>
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
-    <nav>
-      <li><a href="{{ site.baseurl }}/">Home</a></li>
-      <li><a href="{{ site.baseurl }}/about">About</a></li>
-      <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
-      <li><a href="{{ site.baseurl }}/recipes">Recipes</a></li>
-    </nav>
-  </header>
-  <main>
-    {{ content }}
-  </main>
+  
+  <!-- Main Layout with Sidebar and Content Area -->
+  <div class="container">
+    
+    <!-- Sidebar with Navigation Links -->
+    <aside class="sidebar">
+      <h2>Pages</h2>
+      <nav>
+        <ul>
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+          <li><a href="{{ site.baseurl }}/about">About</a></li>
+          <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+          <li><a href="{{ site.baseurl }}/recipes">Recipes</a></li>
+        </ul>
+      </nav>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="content">
+      <header>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+      </header>
+
+      {{ content }}
+    </main>
+  </div>
+
+  <!-- Footer -->
   <footer>
-    <p>&copy; {{ "now" | date: "%Y" }} {{ site.title }} All rights reserved.</p>
+    <p>&copy; {{ "now" | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
   </footer>
+
 </body>
 </html>
