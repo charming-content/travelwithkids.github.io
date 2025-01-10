@@ -90,3 +90,35 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+.post-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.post-title {
+  font-size: 2em;
+  font-weight: bold;
+  flex: 1;
+}
+
+.post-date {
+  font-size: 1em;
+  color: #888;
+  flex-basis: 200px;
+  text-align: right;
+}
+
+@media (max-width: 768px) {
+  .post-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .post-date {
+    text-align: left;
+    margin-top: 10px;
+  }
+}
