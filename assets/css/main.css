@@ -239,8 +239,7 @@ footer p {
 /* Container for the link boxes */
 .link-boxes {
   display: flex;
-  flex-wrap: wrap; /* Allows the boxes to wrap on smaller screens */
-  justify-content: space-around;
+  justify-content: space-between; /* Distributes the boxes evenly in a row */
   margin-top: 20px;
 }
 
