@@ -272,3 +272,34 @@ footer p {
   height: auto; /* Keeps the image's aspect ratio */
 }
 
+.link-box {
+  display: inline-block;
+  width: 30%;
+  margin: 10px;
+  padding: 20px;
+  border: 2px solid #ddd;
+  text-align: center;
+  background-color: #f8f8f8;
+  transition: all 0.3s ease;
+}
+
+.link-box:hover {
+  background-color: #e0e0e0;
+}
+
+.box-content h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.box-content p {
+  font-size: 1rem;
+  color: #555;
+  margin-top: 0;
+}
+
+.link-box a {
+  text-decoration: none;
+  color: inherit;
+}
+
