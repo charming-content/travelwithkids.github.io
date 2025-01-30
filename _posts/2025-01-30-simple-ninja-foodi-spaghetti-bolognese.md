@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Simple Ninja Foodi Spaghetti Recipe"
+title: "Simple Ninja Foodi Spaghetti Bolognese Recipe"
 categories: recipes
 ---
-# Simple Ninja Foodi Spaghetti Recipe
+# Simple Ninja Foodi Spaghetti Bolognese Recipe
 
-If you’re looking for an easy, one-pot meal, this Ninja Foodi spaghetti is perfect! With just a few ingredients and minimal cleanup, you’ll have a delicious meal ready in no time.
+If you’re looking for an easy, one-pot meal, this Ninja Foodi spaghetti bolognese is perfect! With just a few ingredients and minimal cleanup, you’ll have a delicious meal ready in no time.
 
 ### Ingredients
 
@@ -28,10 +28,10 @@ If you’re looking for an easy, one-pot meal, this Ninja Foodi spaghetti is per
 
 1. **Sauté the Minced Pork and Onion:**
    - Set the Ninja Foodi to the sauté function and heat the olive oil.
-   - Add the minced pork, chopped onion, and garlic to the pot. Cook for 5-7 minutes, stirring occasionally, until the beef is browned and the onion is softened.
+   - Add the minced pork, chopped onion, and garlic to the pot. Cook for 5-7 minutes, stirring occasionally, until the pork is browned and the onion is softened.
 
 2. **Season the Meat:**
-   - Add oregano, basil, salt, and pepper to the beef mixture. Stir well to combine the flavors.
+   - Add oregano, basil, salt, and pepper to the pork mixture. Stir well to combine the flavors.
 
 3. **Add Spaghetti and Sauce:**
    - Break the spaghetti in half and lay it evenly over the browned pork.
